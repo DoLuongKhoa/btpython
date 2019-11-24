@@ -1,2 +1,4 @@
 # btpython
-nop bai tap nhom python
+#Bai tap nhom python
+# bai 1:
+//
