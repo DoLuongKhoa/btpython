@@ -191,7 +191,8 @@ plt.imshow(im_new, plt.cm.gray)
 plt.title('Reconstructed Image')
 plt.savefig('reconstruct_image.jpg')
 
-#Bai 5:
+# Bai 5:
+
 from PIL import Image, ImageColor
 
 
